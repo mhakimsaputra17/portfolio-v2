@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Personal Portfolio Website ✨</h1>
-<img src="https://res.cloudinary.com/pritish007/image/upload/v1645051084/Personal%20Portfolio/Screenshot_2022-02-17_at_4.07.01_AM_dtt0oo.png" alt="Preview Image" />
+
 </div>
 
 ---
