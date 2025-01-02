@@ -1,0 +1,19 @@
+{
+  "short_name": "CIPHERTron",
+  "name": "pritishsamal.xyz",
+  "lang": "en",
+  "start_url": "/",
+  "background_color": "#444444",
+  "theme_color": "#444444",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "purpose": "maskable none",
+      "sizes": "32x32"
+    }
+  ]
+}
