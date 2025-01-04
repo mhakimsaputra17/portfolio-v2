@@ -162,21 +162,10 @@ export const skills = [
     type: "platform",
   },
   {
-    name: "Harness",
-    image:
-      "https://raw.githubusercontent.com/CIPHERTron/portfolio/main/public/images/skills/harness.svg",
-    type: "platform",
-  },
-  {
     name: "GCP",
     image:
       "https://raw.githubusercontent.com/CIPHERTron/portfolio/main/public/images/skills/gcp.svg",
     type: "platform",
   },
-  {
-    name: "DigitalOcean",
-    image:
-      "https://hackandslash.blog/content/images/size/w1140/2020/10/DO_Logo_icon_blue-moded-4.png",
-    type: "platform",
-  },
+
 ];

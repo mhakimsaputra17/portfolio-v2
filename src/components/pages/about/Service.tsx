@@ -4,9 +4,9 @@ import { MdApi } from "react-icons/md";
 
 const items = [
   "Full Stack Development",
-  "Cloud Computing",
+  "Artificial Intelegence",
   "Problem Solving",
-  "Technical Writing",
+  "Videography",
 ];
 
 const Container = styled(Box)`
