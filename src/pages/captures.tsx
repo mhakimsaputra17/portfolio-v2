@@ -6,10 +6,9 @@ React.useLayoutEffect = React.useEffect;
 
 // Sample image data (replace with your own)
 const images = [
-  { src: "gallerry/image1.jpg", caption: "Image 1", width: 4, height: 4 },
+  
   { src: "galleryy/image2.jpg", caption: "Image 2", width: 4, height: 4 },
-    { src: "gallerry/image3.jpg", caption: "Image 1", width: 4, height: 4 },
-   { src: "galleryy/image4.jpg", caption: "Image 2", width: 4, height: 4 },
+   { src: "galleryy/image4.jpg", caption: "Image 4", width: 4, height: 4 },
   //   { src: "gallerry/image5.jpg", caption: "Image 1", width: 4, height: 4 },
   // { src: "galleryy/image6.jpg", caption: "Image 2", width: 4, height: 4 },
   //   { src: "gallerry/image7.jpg", caption: "Image 1", width: 4, height: 4 },
