@@ -60,7 +60,7 @@ export const socialLinks: Array<MotionLinkProps> = [
   },
   {
     platformName: "Resume",
-    url: "https://mhakimsaputra17.tiiny.site/",
+    url: "https://mhakimsaputra.me/resume.pdf",
     icon: FaFileAlt,
   },
   {
@@ -79,5 +79,4 @@ export const socialLinks: Array<MotionLinkProps> = [
     url: "https://instagram.com/mhakimsaputra",
     icon: FaInstagram,
   },
-
 ];

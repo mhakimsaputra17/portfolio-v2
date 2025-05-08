@@ -63,7 +63,7 @@ const HeroSection = () => {
           style={{ textDecoration: "none" }}
           mt={7}
           isExternal
-          href="https://mhakimsaputra17.tiiny.site"
+          href="https://mhakimsaputra.me/resume.pdf"
         >
           <Button
             leftIcon={<FaExternalLinkSquareAlt />}
