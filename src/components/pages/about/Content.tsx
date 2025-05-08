@@ -20,7 +20,7 @@ const Content = () => {
       animate="after"
     >
       <Text {...textProps}>
-        I&apos;m <b>Hakim</b>, a passionate <b>Backend Engineer</b> from 🇮🇩
+        I&apos;m <b>Hakim</b>, a passionate <b>Backend Engineer</b> from
         Indonesia, specializing in building scalable and efficient systems using{" "}
         <b>Node.js, Express, Go (Golang), React, and Next.js</b>. My journey
         into the world of technology has been driven by a deep curiosity for
