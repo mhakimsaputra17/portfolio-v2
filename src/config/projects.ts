@@ -10,7 +10,7 @@ export const projects = [
     featured: true,
   },
   {
-    name: "Tickitz - Movie Ticket Booking",
+    name: "Tickitz",
     desc: "Tickitz is a movie ticket booking platform that allows users to browse and book tickets for their favorite movies. With features like seat selection, payment integration, and a user-friendly interface, it’s the perfect tool to simplify and enhance your movie experience.",
     github: "https://github.com/mhakimsaputra17/tickitz-app-react",
     demo: "https://tickitzmovies.mhakimsaputra.me/",
@@ -19,7 +19,7 @@ export const projects = [
     featured: true,
   },
   {
-    name: "Preferences Claude Ai",
+    name: "Preferences Ai",
     desc: "Preferences Claude Ai is a full-stack application that allows users to manage their preferences (theme, language, notifications) through both a modern web interface and natural language commands with Claude AI.",
     github: "https://github.com/mhakimsaputra17/preferences-claude-ai",
     demo: "https://github.com/mhakimsaputra17/preferences-claude-ai",
